@@ -1,5 +1,5 @@
 <figure>
-    <img src="../_images/dnd-logo.png" alt="Dungeons and Dragons Logo!"/>
+    <img src="_images/dnd-logo.png" alt="Dungeons and Dragons Logo!"/>
     <figure-caption>image from https://www.enworld.org/resources/d-d-5e-logo-pack.1043/</figure-caption>
 </figure>
 
