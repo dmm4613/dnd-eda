@@ -7,6 +7,6 @@
 ## Using data found from [Patrick Gomes at Kaggle](https://www.kaggle.com/datasets/patrickgomes/dungeons-and-dragons-5e-monsters/data) I will look to see if I can answer a few questions regarding the diversity of monsters in Dungeons and Dragons Fifth Edition (to be called 5e for the remainder of this project). I will pose the following questions
 ### 1. What are the most common monster types (shown as race in this data)?
 ### 2. Is there a noticeable disparity between monster types?
-### 3. Is there any connection between monster type and alignment?
+### 3. What does the spread of alignment look like for an individual monster race?
 ### 4. Does monster size impact hit point amounts?
 ### 5. Does a monster’s armor class have a correlation with its speed or hit points?
